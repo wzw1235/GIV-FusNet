@@ -4,8 +4,7 @@ This repository provides the implementation of **GIV-FusNet** for multimodal rem
 
 ![Overall framework of GIV-FusNet](GIV-FusNet.png)
 
-> **Note:** The repository is currently being organized. The complete code and related files will be uploaded progressively.
-
+> **Note:** The repository is currently being organized. The complete code will be released upon acceptance of the paper.
 ## Environment Setup
 
 Example environment: **CUDA 11.7, Python 3.8.20, PyTorch 1.13.1**.
